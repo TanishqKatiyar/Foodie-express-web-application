@@ -1,0 +1,5 @@
+{
+  "name": "Foodie Express",
+  "description": "A modern full-stack food delivery application built with React, Express, and Firebase.",
+  "requestFramePermissions": ["geolocation"]
+}
